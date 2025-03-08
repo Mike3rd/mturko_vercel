@@ -39,13 +39,13 @@ Got it! Here’s the **May Taper Phase** plan in the same format, with **5 worko
 #### **Week 1 (Swim Focus)**  
 1. **Swim**: 2,750 yards  
    - Warm-up: 500 yards easy  
-   - Main set: 10x100 yards at race pace (15s rest), 6x50 yards sprint (10s rest)  
-   - Cool-down: 200 yards easy  
+   - Main set: 15x100 yards at race pace (15s rest), 5x50 yards sprint (10s rest)  
+   - Cool-down: 500 yards easy  
 
 2. **Swim**: 2,200 yards  
    - Warm-up: 500 yards easy  
-   - Main set: 8x100 yards at race pace (15s rest), 6x50 yards sprint (10s rest)  
-   - Cool-down: 200 yards easy  
+   - Main set: 10x100 yards at race pace (15s rest), 6x50 yards sprint (10s rest)  
+   - Cool-down: 400 yards easy  
 
 3. **Bike**: 35 miles (2.5-3 hrs)  
    - Steady ride in Zone 2  
@@ -70,8 +70,8 @@ Got it! Here’s the **May Taper Phase** plan in the same format, with **5 worko
 
 3. **Swim**: 2,200 yards  
    - Warm-up: 500 yards easy  
-   - Main set: 8x100 yards at race pace (15s rest), 6x50 yards sprint (10s rest)  
-   - Cool-down: 200 yards easy  
+   - Main set: 12x100 yards at race pace (15s rest), 4x50 yards sprint (10s rest)  
+   - Cool-down: 300 yards easy  
 
 4. **Run**: 6 miles  
    - Warm-up: 0.6 miles easy  
@@ -106,8 +106,10 @@ Got it! Here’s the **May Taper Phase** plan in the same format, with **5 worko
 1. **Swim**: 1,100 yards 
    - Easy technique-focused swim  
 
-2. **Swim**: 1,100 yards
-   - Easy swim with 4x100m at race pace  
+2. **Swim**: 1,650 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 4x100 yards at race pace (15s rest), 4x50 yards sprint (10s rest)  
+   - Cool-down: 550 yards easy    
 
 3. **Bike**: 18.6 miles (1 hr)
    - Easy spin in Zone 2  

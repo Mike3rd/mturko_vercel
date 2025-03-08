@@ -46,7 +46,7 @@ weight: 3
 3. **Swim**: 3,300 yards  
    - Warm-up: 500 yards easy  
    - Main set: 12x100 yards at race pace (15s rest), 8x50 yards sprint (10s rest)  
-   - Cool-down: 200 yards easy  
+   - Cool-down: 1200 yards easy  
 
 4. **Bike**: 65 miles (4.5 hrs)  
    - Steady ride in Zone 2  
@@ -60,13 +60,13 @@ weight: 3
 #### **Week 2 (Swim Focus)**  
 1. **Swim**: 3,800 yards  
    - Warm-up: 500 yards easy  
-   - Main set: 15x100 yards at race pace (15s rest), 12x50 yards sprint (10s rest)  
-   - Cool-down: 200 yards easy  
+   - Main set: 20x100 yards at race pace (15s rest), 12x50 yards sprint (10s rest)  
+   - Cool-down: 700 yards easy  
 
 2. **Swim**: 3,500 yards  
    - Warm-up: 500 yards easy  
-   - Main set: 12x100 yards at race pace (15s rest), 8x50 yards sprint (10s rest)  
-   - Cool-down: 200 yards easy  
+   - Main set: 20x100 yards at race pace (15s rest), 12x50 yards sprint (10s rest)  
+   - Cool-down: 400 yards easy  
 
 3. **Bike**: 75 miles (5 hrs) 
    - Steady ride in Zone 2  
@@ -92,7 +92,7 @@ weight: 3
 3. **Swim**: 3,800 yards  
    - Warm-up: 500 yards easy  
    - Main set: 18x100 yards at race pace (15s rest), 15x50 yards sprint (10s rest)  
-   - Cool-down: 200 yards easy  
+   - Cool-down: 750 yards easy  
 
 4. **Run**: 15 miles  
    - Warm-up: 0.6 miles easy  

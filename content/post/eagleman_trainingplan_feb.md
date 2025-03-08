@@ -27,14 +27,14 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
 
 #### **Week 1 (Swim Focus)**  
 1. **Swim**: 1,650 yards  
-   - Warm-up: 300 yards easy  
+   - Warm-up: 400 yards easy  
    - Main set: 4x200 yards moderate pace (20s rest), 4x100 yards race pace (15s rest)  
-   - Cool-down: 200 yards easy  
+   - Cool-down: 50 yards easy  
 
 2. **Swim**: 2,000 yards  
-   - Warm-up: 400 yards easy  
+   - Warm-up: 500 yards easy  
    - Main set: 6x150 yards moderate pace (20s rest), 4x50 yards sprint (15s rest)  
-   - Cool-down: 200 yards easy  
+   - Cool-down: 400 yards easy  
 
 3. **Bike**: 25 miles (1.5 hrs)  
    - Steady ride in Zone 2  
@@ -60,7 +60,7 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
 3. **Swim**: 2,000 yards  
    - Warm-up: 400 yards easy  
    - Main set: 6x150 yards moderate pace (20s rest), 4x50 yards sprint (15s rest)  
-   - Cool-down: 200 yards easy  
+   - Cool-down: 500 yards easy  
 
 4. **Run**: 6 miles  
    - Warm-up: 0.6 miles easy  
@@ -100,9 +100,9 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
    - Easy technique-focused swim  
 
 2. **Swim**: 2,000 yards  
-   - Warm-up: 400 yards easy  
+   - Warm-up: 500 yards easy  
    - Main set: 6x150 yards moderate pace (20s rest), 4x50 yards sprint (15s rest)  
-   - Cool-down: 200 yards easy  
+   - Cool-down: 400 yards easy  
 
 3. **Bike**: 25 miles (90 mins)  
    - Easy spin in Zone 2  
