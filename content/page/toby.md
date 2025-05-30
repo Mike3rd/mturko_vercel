@@ -17,6 +17,9 @@ A Story to Read to Dogs (and Humans Too!)
 Illustration: Toby standing proudly on city bridge at sunset, heart-shaped patch visible.
 
 ### Story Spreads
+
+---
+
 #### Pages 2-3: Toby's Lonely Stray Life 
  
 (Left Page 2)
@@ -41,6 +44,8 @@ Illustration:
 Interactive Prompt:  
 "Point to Toby. Ask your pup: 'Were you ever lonely too?'"
 
+---
+
 #### Pages 4-5: Inciting Incident
 
 (Left 4)
@@ -63,6 +68,8 @@ Illustration:
 
 Interactive Prompt:  
 "Make a crow sound - CAW! - with your pup!"
+
+---
 
 #### Pages 6-7: The Scent Detour
 
@@ -87,6 +94,8 @@ Illustration:
 Interactive Prompt:  
 "Sniff the page! What's your pup's favorite smell?"
 
+---
+
 #### Pages 8-9: Postman's Treat
 
 (Left 8)
@@ -110,6 +119,8 @@ Illustration:
 Interactive Prompt:  
 "High-five your pup for good manners!"
 
+---
+
 #### Pages 10-11: Stormy Park Fireworks
 
 (Left 10)
@@ -132,6 +143,8 @@ Illustration:
 
 Interactive Prompt:  
 "If your pup's scared of noises, hug them tight!"
+
+---
 
 #### Pages 12-13: Toll Bridge Rescue
 
@@ -157,6 +170,8 @@ Illustration:
 Interactive Prompt: 
 "Count the bribes: 1 coin, 1 snack, 1 rescue!"
 
+---
+
 #### Pages 14-15: Shelter Arrival
 
 (Left 14)
@@ -180,6 +195,8 @@ Illustration:
 Interactive Prompt:  
 "Whisper encouragement to your pup!"
 
+---
+
 #### Pages 16-17: Bratty Kid Rejection
 (Left 16)
 
@@ -201,6 +218,8 @@ Illustration:
 
 Interactive Prompt:  
 "Would your pup like this kid? Boo!"
+
+---
 
 #### Pages 18-19: Phone Lady Ignoring
 
@@ -225,6 +244,8 @@ Illustration:
 Interactive Prompt:  
 "Put down your phone and pet your pup!"
 
+---
+
 #### Pages 20-21: The Girl Who Knew His Name
 
 (Left 20)
@@ -247,6 +268,8 @@ Illustration:
 
 Interactive Prompt:  
 "Ask your pup: 'Would you choose me too?'"
+
+---
 
 #### Pages 22-23: New Beginning
 
@@ -271,17 +294,24 @@ Illustration:
 Interactive Prompt:  
 "Give your pup a goodnight kissd!"
 
-### Back Matter  
+---
+
+### Back Matter
+  
 #### Page 24 (Left):
 **"How to Read to Your Dog"**  
 - Snuggle close and use silly voices  
 - Let them sniff each page  
 - Pause for ear scratches  
 
+---
+
 #### Page 25 (Right):
 **"Adopt Your Own Toby!"**  
 - Visit [Local Shelter]  
 - #TalesOfToby on social media
+
+---
 
 #TalesOfToby on social media
 Pages 26-28: Blank
