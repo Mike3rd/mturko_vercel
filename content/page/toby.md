@@ -73,7 +73,7 @@ Interactive Prompt:
 > Toby woke with a thump-thump sound,  
 As Cheezy Crow cawed from the dumpster mound:  
 "Up, pup! I've flown past bridge and street -  
-There's a shelter past the toll where humans and dogs meet!"
+There's a shelter past the toll bridge, where dogs and humans meet!"
 
 Setting: Same laundromat alley as Page 3  
 - Toby stretching out of cardboard box (labeled "Fresh Laundry")  
@@ -127,7 +127,7 @@ or
 > The Chicken Man tossed a drumstick treat,  
 "For street dogs – take a seat and eat!"  
 Finley groaned, "We’ve got MILES TO GO!"  
-But Toby CHOMP-CHOMP-GULPED – "...Yum. Too Slow?"
+But Toby CHOMP-CHOMP-GULPED – "...Yum Yummy Yum. Too Slow?"
 
 Illustration:
 - Chicken Man winking, wearing a "BEST BIRD COOK" hat
