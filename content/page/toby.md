@@ -110,24 +110,36 @@ Interactive Prompt:
 
 (Left 6)
 
-SNIFF-SNIFF-SNORT! "Chicken! This way!"
+> SNIFF-SNIFF-SNIFF! "Chicken! This way!"
 Toby dragged them all astray.
 Finley groaned, "We'll never get there!"
-As Toby danced by the vendor's chair.
+As Toby ran towards the chicken man's chair.
 
 (Right 7)
 
-The cook laughed and tossed a bite,
-"Street dogs eat free here at night!"
-Cheezy grumbled, "That's MY snack!"
-But Toby gulped it - CRUNCH-CRUNCH-SLURP!
+> The Chicken Man flipped a crispy bite,
+"For brave pups who don’t bark or bite!"
+Finley yowled, "This detour’s RUDE!"
+But Toby CRUNCHED in a gratitude mood.
+
+or
+
+> The Chicken Man tossed a drumstick treat,
+"For street dogs – take a seat and eat!"
+Finley groaned, "We’ve got MILES TO GO!"
+But Toby CHOMP-CHOMP-GULPED – "...Yum. Too Slow?"
 
 Illustration:
-- Nighttime food cart with glowing lights
-- Toby begging, chef laughing
+- Chicken Man winking, wearing a "BEST BIRD COOK" hat
+- Finley tapping paw impatiently
+- Cheezy eyeing the tip jar
+
+Bonus Idea:
+- Add a speech bubble from Toby:
+  - "Worth it!" with chicken grease on his muzzle.
 
 Interactive Prompt:  
-"Sniff the page! What's your pup's favorite smell?"
+- "Sniff the page! What's your pup's favorite smell?"
 
 ---
 
