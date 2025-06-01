@@ -24,9 +24,9 @@ Illustration: Toby standing proudly on city bridge at sunset, heart-shaped patch
  
 (Left Page 2)
 
-> Toby sat watching the sidewalk parade,
-Where happy dogs trotted in sunlit shade.
-"Cheezy! Finley!" he called with a whine,
+> Toby sat watching the sidewalk parade,  
+Where happy dogs trotted in sunlit shade.  
+"Cheezy! Finley!" he called with a whine,  
 "Why don't I get a human... and walks that are mine?"
 
 Illustration Notes:  
@@ -43,9 +43,9 @@ Toby's heart-shaped patch catching sunlight
 
 (Right Page 3)
 
-> That night in his box 'neath the laundromat light,
-Toby dreamed of a life just right:
-Long walks where he led the way,
+> That night in his box 'neath the laundromat light,  
+Toby dreamed of a life just right:  
+Long walks where he led the way,  
 Belly rubs, and treats every day!
 
 Illustration:
@@ -70,9 +70,9 @@ Interactive Prompt:
 
 (Left 4)
 
-> Toby woke with a thump-thump sound,
-As Cheezy Crow cawed from the dumpster mound:
-"Up, pup! I've flown past bridge and street -
+> Toby woke with a thump-thump sound,  
+As Cheezy Crow cawed from the dumpster mound:  
+"Up, pup! I've flown past bridge and street -  
 There's a shelter past the toll where humans and dogs meet!"
 
 Setting: Same laundromat alley as Page 3  
@@ -86,9 +86,9 @@ Action:
 
 (Right 5)
 
-> From his stash of treasures (a toy car, two rings),
-Cheezy dropped a coin that went cling-a-ling!
-"This doggy token's your bridge-crossing key,
+> From his stash of treasures (a toy car, two rings),  
+Cheezy dropped a coin that went cling-a-ling!  
+"This doggy token's your bridge-crossing key,  
 But hurry - the raccoon takes bribes at three!"
 
 Illustration:
@@ -110,23 +110,23 @@ Interactive Prompt:
 
 (Left 6)
 
-> SNIFF-SNIFF-SNIFF! "Chicken! This way!"
-Toby dragged them all astray.
-Finley groaned, "We'll never get there!"
+> SNIFF-SNIFF-SNIFF! "Chicken! This way!"  
+Toby dragged them all astray.  
+Finley groaned, "We'll never get there!"  
 As Toby ran towards the chicken man's chair.
 
 (Right 7)
 
-> The Chicken Man flipped a crispy bite,
-"For brave pups who don’t bark or bite!"
-Finley yowled, "This detour’s RUDE!"
+> The Chicken Man flipped a crispy bite,  
+"For brave pups who don’t bark or bite!"  
+Finley yowled, "This detour’s RUDE!"  
 But Toby CRUNCHED in a gratuitous mood.
 
 or
 
-> The Chicken Man tossed a drumstick treat,
-"For street dogs – take a seat and eat!"
-Finley groaned, "We’ve got MILES TO GO!"
+> The Chicken Man tossed a drumstick treat,  
+"For street dogs – take a seat and eat!"  
+Finley groaned, "We’ve got MILES TO GO!"  
 But Toby CHOMP-CHOMP-GULPED – "...Yum. Too Slow?"
 
 Illustration:
