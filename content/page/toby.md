@@ -24,22 +24,42 @@ Illustration: Toby standing proudly on city bridge at sunset, heart-shaped patch
  
 (Left Page 2)
 
-Toby scuffed his paws on the cold concrete,  
-Watching happy dogs walk down the street.  
-"Why don't I have a human?" he sighed,  
-As rain dripped down his golden hide.  
+> Toby sat watching the sidewalk parade,
+Where happy dogs trotted in sunlit shade.
+"Cheezy! Finley!" he called with a whine,
+"Why don't I get a human... and walks that are mine?"
+
+Illustration Notes:  
+Daytime park: Sunny, dappled light through trees  
+Foreground: Toby sitting by a bus stop  
+
+Background:  
+Cheezy Crow perched on a street sign  
+Finley lounging on a nearby fire escape  
+
+Details:  
+Happy dogs with owners walking by  
+Toby's heart-shaped patch catching sunlight    
 
 (Right Page 3)
 
-He nibbled crusts from trash cans low,
-Dreamed of collars and firesides aglow.
-No name, no bed - just streets so wide,
-But hope stayed tucked in his patch's pride.
+> That night in his box 'neath the laundromat light,
+Toby dreamed of a life just right:
+Long walks where he led the way,
+Belly rubs, and treats every day!
 
-Illustration:  
-- Daytime city park
-- Toby small/shadowed under bench
-- Happy dogs with owners in distance
+Illustration:
+Split panel:  
+- Top:
+ - Toby curled in cardboard box (street shelter)
+ - finly sleeping nearby
+
+- Bottom: Dream bubble showing:
+  - Toby on a leash with smiling human
+  - Dog bowl overflowing with treats
+  - Hands scratching his belly
+
+Style: Warm, glowing dream colors contrast with gritty street
   
 Interactive Prompt:  
 "Point to Toby. Ask your pup: 'Were you ever lonely too?'"
@@ -50,21 +70,36 @@ Interactive Prompt:
 
 (Left 4)
 
-Then - SNAP! - a voice cut through the air:
-"That shelter helps dogs find love and care!"
-Toby's ears shot up, his tail went thump,
-Could this be his way out of the dump?
+> Toby woke with a thump-thump sound,
+As Cheezy Crow cawed from the dumpster mound:
+"Up, pup! I've flown past bridge and street -
+There's a shelter past the toll where humans and dogs meet!"
+
+Setting: Same laundromat alley as Page 3  
+- Toby stretching out of cardboard box (labeled "Fresh Laundry")  
+- Cheezy perched on a rusty dumpster (not a cart)  
+- Morning light glinting off broken glass/puddles
+
+Action:
+- Toby's tail wagging so hard it knocks over a tin can
+- Cheezy's wings scattering loose papers
 
 (Right 5)
 
-Cheezy Crow landed with a CAW! so loud,
-Dropping a doggy coin from his treasure-filled cloud.
-"For the bridge toll, my scruffy friend,
-Your grand adventure's 'bout to begin!"
+> From his stash of treasures (a toy car, two rings),
+Cheezy dropped a coin that went cling-a-ling!
+"This doggy token's your bridge-crossing key,
+But hurry - the raccoon takes bribes at three!"
 
 Illustration:
-- Child pointing off-page
-- Cheezy dropping coin, Finley peeking from alley
+Close-up of Cheezy's "stash" in a cracked flowerpot:
+- Shiny junk (bottle caps, keys, doggy coin)
+- Bonus: Hidden Cheez-It wrapper as foreshadowing
+- Toby's paw reaching for the coin, eyes wide
+- Finley peeking into frame with skeptical look
+- Cheezy's stash now spills from dumpster edge (not flowerpot)
+
+Bonus Detail: "Fresh Laundry" box visible in background
 
 Interactive Prompt:  
 "Make a crow sound - CAW! - with your pup!"
@@ -284,7 +319,7 @@ Cheezy stole snacks - his usual shape.
 
 Toby knew he'd miss the street,
 The wild adventures, scraps to eat.
-But as his girl whispered, "Goodnight, friend,"
+But as his girl whispered, "Goodnight, **new** friend,"
 He found his perfect story's end.
 
 Illustration:
