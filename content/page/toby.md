@@ -120,7 +120,7 @@ As Toby ran towards the chicken man's chair.
 > The Chicken Man flipped a crispy bite,
 "For brave pups who don’t bark or bite!"
 Finley yowled, "This detour’s RUDE!"
-But Toby CRUNCHED in a gratitude mood.
+But Toby CRUNCHED in a gratuitous mood.
 
 or
 
