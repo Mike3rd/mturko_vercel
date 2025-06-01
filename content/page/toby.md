@@ -132,7 +132,7 @@ But Toby CHOMP-CHOMP-GULPED – "...Yum Yummy Yum. Too Slow?"
 Illustration:
 - Chicken Man winking, wearing a "BEST BIRD COOK" hat
 - Finley tapping paw impatiently
-- Cheezy eyeing the tip jar
+- ** Cheezy eyeing the tip jar **
 
 Bonus Idea:
 - Add a speech bubble from Toby:
