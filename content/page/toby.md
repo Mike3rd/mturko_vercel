@@ -147,17 +147,17 @@ Interactive Prompt:
 
 (Left 8)
 
-Rounding the block, who should appear?
-Toby’s favorite postman—“Over here!”
-With jingling keys and treats to share,
+Rounding the block, who should appear?  
+Toby’s favorite postman—“Over here!”  
+With jingling keys and treats to share,  
 He never forgot this scruffy Toby bear!
 
 (Right 9)
 
-"Special delivery!" the mailman cheered,
-Tossing a biscuit Toby revered.
-Finley rolled her eyes, "So basic, so tame,"
-But Toby just wagged - mail carriers were his game!
+“Special delivery!” the mailman announced,  
+Tossing the biscuit on which Toby pounced,   
+Finley sniffed, “Ugh, don't have a cow!”  
+But Toby just danced— and then took a bow!
 
 Illustration:
 - Jolly postman in uniform
@@ -172,21 +172,24 @@ Interactive Prompt:
 
 (Left 10)
 
-CRACKLE-POP! BOOM! The sky exploded,
-Toby froze - his courage eroded.
-Colors flashed bright, the noise so scary,
-He ducked beneath a bush so hairy.
+KABLAM! The sky lit up KA-POW!  
+Toby tucked his tail and "HOWL!"  
+Fireworks bloomed like flowers of fright,  
+He dove for the bushes—out of sight!
+
+Illustration:  
+- Toby’s paws and tail visible under bush.
 
 (Right 11)
 
-Cheezy sang, "Just sky-confetti!
-The world's shouting 'GO, Toby, READY?'"
-Finley dragged a blanket near,
-"Walk tall, doggo - home is here."
+Cheezy cawed, "They’re just light-show pets!
+See? Not one firework’s bitten folks yet!"
+Finley draped him in her "blanket cape,"
+"Now march, mutt. Don’t gawk—escape!"
 
 Illustration:
 - Fireworks over park
-- Toby trembling under picnic blanket
+-  Finley wrapping him like a burrito.
 
 Interactive Prompt:  
 "If your pup's scared of noises, hug them tight!"
