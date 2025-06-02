@@ -148,9 +148,9 @@ Interactive Prompt:
 (Left 8)
 
 Rounding the block, who should appear?
-Toby's favorite postman - "Over here!"
-With jingling keys and treats in pocket,
-He never forgot this scruffy rocket.
+Toby’s favorite postman—“Over here!”
+With jingling keys and treats to share,
+He never forgot this scruffy Toby bear!
 
 (Right 9)
 
