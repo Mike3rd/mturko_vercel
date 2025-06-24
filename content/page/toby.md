@@ -44,7 +44,7 @@ Toby's heart-shaped patch catching sunlight
 (Right Page 3)
 
 > That night in his box 'neath the laundromat light,  
-Toby dreamed of a life just right:  
+Toby dreamed of life with a human, just right:  
 Long walks where he led the way,  
 Belly rubs, and treats every day!
 
@@ -70,9 +70,9 @@ Interactive Prompt:
 
 (Left 4)
 
-> Toby woke with a thump-thump sound,  
+> Toby woke with a flap-flap sound,  
 As Cheezy Crow cawed from the dumpster mound:  
-"Up, pup! I've flown past bridge and street -  
+"Hey, pup! I've flown over bridge and street -  
 There's a shelter past the toll bridge, where dogs and humans meet!"
 
 Setting: Same laundromat alley as Page 3  
@@ -86,13 +86,14 @@ Action:
 
 (Right 5)
 
-> From his stash of treasures (a toy car, two rings),  
-Cheezy dropped a coin that went cling-a-ling!  
-"This doggy token's your bridge-crossing key,  
-But hurry - the raccoon takes bribes at three!"
+> From his stash of treasures (a toy car, two rings),
+Cheezy dropped a coin that went cling-a-ling!
+"This doggy token pays the bridge-crossing toll,
+But hurry—your new human awaits! Let’s roll!"
 
 Illustration:
-Close-up of Cheezy's "stash" in a cracked flowerpot:
+- Toby already mid-dash, kicking up dust!
+- Close-up of Cheezy's "stash" in a cracked flowerpot:
 - Shiny junk (bottle caps, keys, doggy coin)
 - Bonus: Hidden Cheez-It wrapper as foreshadowing
 - Toby's paw reaching for the coin, eyes wide
@@ -110,24 +111,45 @@ Interactive Prompt:
 
 (Left 6)
 
-> SNIFF-SNIFF-SNIFF! "Chicken! This way!"  
-Toby dragged them all astray.  
-Finley groaned, "We'll never get there!"  
-As Toby ran towards the chicken man's chair.
+> Rounding the block, who should appear?  
+Toby’s favorite postman—“Over here!”  
+With jingling keys and treats to share,  
+He never forgot this scruffy Toby bear!
 
 (Right 7)
 
-> The Chicken Man flipped a crispy bite,  
-"For brave pups who don’t bark or bite!"  
-Finley yowled, "This detour’s RUDE!"  
-But Toby CRUNCHED in a gratuitous mood.
+> “Special delivery!” the mailman announced,  
+Tossing the biscuit on which Toby pounced,   
+Finley sniffed, “Relax, don't have a cow!”  
+But Toby just danced— and then took a bow!
 
-or
+Illustration:
+- Jolly postman in uniform
+- Mailbag with shelter flyer visible
 
-> The Chicken Man tossed a drumstick treat,  
-"For street dogs – take a seat and eat!"  
-Finley groaned, "We’ve got MILES TO GO!"  
-But Toby CHOMP-CHOMP-GULPED – "...Yum Yummy Yum. Too Slow?"
+Interactive Prompt:  
+"High-five your pup for good manners!"
+
+---
+
+#### Pages 8-9: Postman's Treat
+
+
+(Left 8)
+
+> SNIFF-SNIFF-SNIFF! "Chicken! This way!"  
+Toby dragged them all astray.  
+Cheesy crowed, "At this rate, we'll never get there!"  
+As Toby ran towards the chicken man's chair.
+
+(Right 9)
+
+
+> The Chicken Man tossed Toby a treat,  
+"For my favorite street dog – take a seat and eat!"  
+Finley meowed, "We’ve got BLOCKS TO GO, it's getting dark!"  
+Toby CHOMPED-CHOMPED-GULPED – " Let's cut through the park!"
+
 
 Illustration:
 - Chicken Man winking, wearing a "BEST BIRD COOK" hat
@@ -143,53 +165,31 @@ Interactive Prompt:
 
 ---
 
-#### Pages 8-9: Postman's Treat
-
-(Left 8)
-
-> Rounding the block, who should appear?  
-Toby’s favorite postman—“Over here!”  
-With jingling keys and treats to share,  
-He never forgot this scruffy Toby bear!
-
-(Right 9)
-
-> “Special delivery!” the mailman announced,  
-Tossing the biscuit on which Toby pounced,   
-Finley sniffed, “Ugh, don't have a cow!”  
-But Toby just danced— and then took a bow!
-
-Illustration:
-- Jolly postman in uniform
-- Mailbag with shelter flyer visible
-
-Interactive Prompt:  
-"High-five your pup for good manners!"
-
----
-
 #### Pages 10-11: Stormy Park Fireworks
 
 (Left 10)
 
 > KABLAM! The sky lit up KA-POW!  
-Toby tucked his tail and "HOWL!"  
+Toby tucked his tail and went "HOW-WOL!"  
 Fireworks bloomed like flowers of fright,  
-He dove for the bushes—out of sight!
+He dove for the bushes— out of sight!
+
 
 Illustration:  
 - Toby’s paws and tail visible under bush.
 
 (Right 11)
 
-> Cheezy cawed, "They’re just light-show pets!
+> Cheezy cawed, "It's just a light-show, no harm to pets!
 See? Not one firework’s bitten folks yet!"
-Finley draped him in her "blanket cape,"
-"Now march, mutt. Don’t gawk—escape!"
+Finley yanked his scruff: "Listen pup,
+We’ll sleep here ‘til the sun comes up!"
 
 Illustration:
 - Fireworks over park
 -  Finley wrapping him like a burrito.
+- Show Finley building a makeshift bed from trash (cardboard + blanket).
+- Cheezy perched on a park sign ("No Dogs After Dark").
 
 Interactive Prompt:  
 "If your pup's scared of noises, hug them tight!"
@@ -200,10 +200,10 @@ Interactive Prompt:
 
 (Left 12)
 
-Rascal the raccoon crossed his arms with a growl,
-"Dogs can’t cross! Scram, pup—don’t howl!"
+>Rascal the grumpy raccoon crossed his arms with a growl,
+"Dogs can’t cross! Scram, pup— don’t scowl!"
 Toby dropped the doggy coin with a clink,
-But Rascal just sneered. "Nice try. I think NOT."
+But Rascal just sneered. "Nice try... NOT!"
 
 (Right 13)
 
