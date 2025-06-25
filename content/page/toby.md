@@ -70,7 +70,7 @@ Interactive Prompt:
 
 (Left 4)
 
-> Toby woke up to a flap-flap sound,  
+> Toby woke to a flap-flap sound,  
 As Cheezy Crow landed on a dumpster mound:  
 "Hey, pup! I've flown over bridge and street -  
 There's a shelter past the toll bridge, where dogs and humans meet!"
@@ -198,7 +198,7 @@ Illustration:
 
 > The night grew quiet, the booms all fled,  
 But Toby still hid his bush-hat head.  
-Cheezy murmured, "We're all safe and sound—  
+Cheezy murmured, "Look, we're all safe and sound—  
 We'll sleep here tonight 'til the sun comes around. 
 
 Illustration:
