@@ -93,5 +93,7 @@
     <loc>/page/</loc>
   </url><url>
     <loc>/page/toby/</loc>
+  </url><url>
+    <loc>/page/toby2/</loc>
   </url>
 </urlset>
