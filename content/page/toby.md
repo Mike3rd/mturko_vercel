@@ -198,7 +198,7 @@ Illustration:
 
 > The night grew quiet, the booms all fled,  
 But Toby still hid his bush-hat head.  
-Cheezy murmured, "Look, we're all safe and sound—  
+Cheezy murmured, "Look! We're all safe and sound—  
 We'll sleep here tonight 'til the sun comes around. 
 
 Illustration:
