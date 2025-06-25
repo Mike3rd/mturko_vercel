@@ -71,7 +71,7 @@ Interactive Prompt:
 (Left 4)
 
 > Toby woke with a flap-flap sound,  
-As Cheezy Crow cawed from the dumpster mound:  
+As Cheezy Crow landed on a dumpster mound:  
 "Hey, pup! I've flown over bridge and street -  
 There's a shelter past the toll bridge, where dogs and humans meet!"
 
@@ -107,20 +107,20 @@ Interactive Prompt:
 
 ---
 
-#### Pages 6-7: The Scent Detour
+#### Pages 6-7: Postman
 
 (Left 6)
 
 > Rounding the block, who should appear?  
 Toby’s favorite postman—“Over here!”  
 With jingling keys and treats to share,  
-He never forgot this scruffy Toby bear!
+He never forgets this scruffy Toby bear!
 
 (Right 7)
 
 > “Special delivery!” the mailman announced,  
 Tossing the biscuit on which Toby pounced,   
-Finley sniffed, “PFFT, relax, don't have a cow!”  
+Finley sniffed, “relax, don't have a cow!”  
 But Toby just danced— and then took a bow!
 
 Illustration:
@@ -132,7 +132,7 @@ Interactive Prompt:
 
 ---
 
-#### Pages 8-9: Postman's Treat
+#### Pages 8-9: Chicken man- scent detour
 
 
 (Left 8)
@@ -148,7 +148,7 @@ As Toby ran towards the chicken man's chair.
 > The Chicken Man tossed Toby a treat,  
 "For my favorite street dog – take a seat and eat!"  
 Finley meowed, "We’ve got BLOCKS TO GO, it's getting dark!"  
-Toby CHOMPED-CHOMPED-GULPED – " Let's cut through the park!"
+Toby CHOMPED-CHOMPED-GULPED – "Let's cut through the park!"
 
 
 Illustration:
@@ -183,8 +183,8 @@ He belly-crawled to undergrounds!
 
 > KABLAM-KABOOM-KAPOP! The sky lit up bright.    
 Toby tucked his tail and shook in fright.   
-His paws went slippy, his ears went flap—  
-Now he’s wearing that bush as a scaredy-cap!  
+His tongue was panting, his ears went flat—  
+Now he’s wearing that bush as a scaredy-cap!    
 
 Why it works:  
 Physical comedy (bush stuck on his head).  
@@ -198,7 +198,7 @@ Illustration:
 
 > The night grew quiet, the booms all fled,  
 But Toby still hid his bush-hat head.  
-Cheezy murmured, "Safe and sound—  
+Cheezy murmured, "We're all safe and sound—  
 We'll sleep here tonight 'til the sun comes around. 
 
 Illustration:

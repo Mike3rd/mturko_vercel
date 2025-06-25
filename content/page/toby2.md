@@ -22,40 +22,40 @@ Toby dreamed of life with a human, just right:
 Long walks where he led the way,  
 Belly rubs, and treats every day!
 
----
 
 #### Pages 4-5: Inciting Incident
 
 (Left 4)
 
 > Toby woke with a flap-flap sound,  
-As Cheezy Crow cawed from the dumpster mound:  
+As Cheezy Crow landed on a dumpster mound:    
 "Hey, pup! I've flown over bridge and street -  
 There's a shelter past the toll bridge, where dogs and humans meet!"
 
 (Right 5)
 
----
+> From his stash of treasures (a toy car, two rings),
+Cheezy dropped a coin that went cling-a-ling!
+"This doggy token pays the bridge-crossing toll,
+But hurry—your new human awaits! Let’s roll!"
 
-#### Pages 6-7: The Scent Detour
+#### Pages 6-7: Postman
 
 (Left 6)
 
 > Rounding the block, who should appear?  
 Toby’s favorite postman—“Over here!”  
 With jingling keys and treats to share,  
-He never forgot this scruffy Toby bear!
+*He never forgot this scruffy Toby bear!* need to fix bear?
 
 (Right 7)
 
 > “Special delivery!” the mailman announced,  
 Tossing the biscuit on which Toby pounced,   
-Finley sniffed, “PFFT, relax, don't have a cow!”  
+Finley sniffed, “relax, don't have a cow!”  
 But Toby just danced— and then took a bow!
 
----
-
-#### Pages 8-9: Postman's Treat
+#### Pages 8-9: Chicken Man - scent detour
 
 (Left 8)
 
@@ -69,9 +69,7 @@ As Toby ran towards the chicken man's chair.
 > The Chicken Man tossed Toby a treat,  
 "For my favorite street dog – take a seat and eat!"  
 Finley meowed, "We’ve got BLOCKS TO GO, it's getting dark!"  
-Toby CHOMPED-CHOMPED-GULPED – " Let's cut through the park!"
-
----
+Toby CHOMPED-CHOMPED-GULPED – "Let's cut through the park!"
 
 #### Pages 10-11: Stormy Park Fireworks
 
@@ -79,18 +77,15 @@ Toby CHOMPED-CHOMPED-GULPED – " Let's cut through the park!"
 
 > KABLAM-KABOOM-KAPOP! The sky lit up bright.    
 Toby tucked his tail and shook in fright.   
-His paws went slippy, his ears went flap—  
+His tongue was panting, his ears went flat—  
 Now he’s wearing that bush as a scaredy-cap!  
 
 (Right 11)
 
 > The night grew quiet, the booms all fled,  
 But Toby still hid his bush-hat head.  
-Cheezy murmured, "Safe and sound—  
+Cheezy murmured, "We're all safe and sound—  
 We'll sleep here tonight 'til the sun comes around. 
-
-
----
 
 #### Pages 12-13: Toll Bridge Rescue
 
@@ -116,8 +111,6 @@ Illustration:
 Interactive Prompt: 
 "Count the bribes: 1 coin, 1 snack, 1 rescue!"
 
----
-
 #### Pages 14-15: Shelter Arrival
 
 (Left 14)
@@ -141,8 +134,6 @@ Illustration:
 Interactive Prompt:  
 "Whisper encouragement to your pup!"
 
----
-
 #### Pages 16-17: Bratty Kid Rejection
 (Left 16)
 
@@ -164,8 +155,6 @@ Illustration:
 
 Interactive Prompt:  
 "Would your pup like this kid? Boo!"
-
----
 
 #### Pages 18-19: Phone Lady Ignoring
 
@@ -190,8 +179,6 @@ Illustration:
 Interactive Prompt:  
 "Put down your phone and pet your pup!"
 
----
-
 #### Pages 20-21: The Girl Who Knew His Name
 
 (Left 20)
@@ -214,8 +201,6 @@ Illustration:
 
 Interactive Prompt:  
 "Ask your pup: 'Would you choose me too?'"
-
----
 
 #### Pages 22-23: New Beginning
 
@@ -240,8 +225,6 @@ Illustration:
 Interactive Prompt:  
 "Give your pup a goodnight kissd!"
 
----
-
 ### Back Matter
   
 #### Page 24 (Left):
@@ -250,14 +233,11 @@ Interactive Prompt:
 - Let them sniff each page  
 - Pause for ear scratches  
 
----
-
 #### Page 25 (Right):
 **"Adopt Your Own Toby!"**  
 - Visit [Local Shelter]  
 - #TalesOfToby on social media
 
----
 
 #TalesOfToby on social media
 Pages 26-28: Blank
