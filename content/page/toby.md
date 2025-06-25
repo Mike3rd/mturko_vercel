@@ -120,7 +120,7 @@ He never forgot this scruffy Toby bear!
 
 > “Special delivery!” the mailman announced,  
 Tossing the biscuit on which Toby pounced,   
-Finley sniffed, “Relax, don't have a cow!”  
+Finley sniffed, “PFFT, relax, don't have a cow!”  
 But Toby just danced— and then took a bow!
 
 Illustration:
@@ -169,10 +169,26 @@ Interactive Prompt:
 
 (Left 10)
 
-> KABLAM! The sky lit up KA-POW!  
-Toby tucked his tail and went "HOW-WOL!"  
-Fireworks bloomed like flowers of fright,  
-He dove for the bushes— out of sight!
+> KABLAM-KABOOM-KAPOP! The sky lit up bright.  
+Toby tucked his tail and shook in fright.  
+Fireworks boomed like cannons of doom,  
+He dove for the bushes— way out of sight!
+
+
+> KABLAM-KABOOM-KAPOP! The sky lit up bright.  
+Toby tucked his tail and shook in fright. 
+Fireworks barked like angry hounds—  
+He belly-crawled to undergrounds!  
+
+
+> KABLAM-KABOOM-KAPOP! The sky lit up bright.    
+Toby tucked his tail and shook in fright.   
+His paws went slippy, his ears went flap—  
+Now he’s wearing that bush as a scaredy-cap!  
+
+Why it works:  
+Physical comedy (bush stuck on his head).  
+"Scaredy-cap" = instantly visual.
 
 
 Illustration:  
@@ -180,16 +196,16 @@ Illustration:
 
 (Right 11)
 
-> Cheezy cawed, "It's just a light-show, no harm to pets!
-See? Not one firework’s bitten folks yet!"
-Finley yanked his scruff: "Listen pup,
-We’ll sleep here ‘til the sun comes up!"
+> The night grew quiet, the booms all fled,  
+But Toby still hid his bush-hat head.  
+Cheezy murmured, "Safe and sound—  
+We'll sleep here 'til the sun comes around. 
 
 Illustration:
-- Fireworks over park
--  Finley wrapping him like a burrito.
-- Show Finley building a makeshift bed from trash (cardboard + blanket).
-- Cheezy perched on a park sign ("No Dogs After Dark").
+- Toby: Still trembling under his "scaredy-cap"
+- Finley: Curled up in a loaf position, eyes half-closed
+- Cheezy: Perched on a branch, pointing at quiet sky
+- Background: Distant bridge silhouette under moon
 
 Interactive Prompt:  
 "If your pup's scared of noises, hug them tight!"
@@ -200,10 +216,10 @@ Interactive Prompt:
 
 (Left 12)
 
->Rascal the grumpy raccoon crossed his arms with a growl,
+>Rascal the raccoon crossed his arms with a growl,
 "Dogs can’t cross! Scram, pup— don’t scowl!"
 Toby dropped the doggy coin with a clink,
-But Rascal just sneered. "Nice try... NOT!"
+But Rascal just sneered. "Nice try pup... NOT!"
 
 (Right 13)
 
