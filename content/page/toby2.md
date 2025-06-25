@@ -19,24 +19,24 @@ Where happy dogs trotted in sunlit shade.
 
 > That night in his box 'neath the laundromat light,  
 Toby dreamed of life with a human, just right:  
-Long walks where he led the way,  
-Belly rubs, and treats every day!
+Long walks on a leash, where he led the way,    
+Belly rubs, snuggles, and treats every day!
 
 
 #### Pages 4-5: Inciting Incident
 
 (Left 4)
 
-> Toby woke with a flap-flap sound,  
+> Toby woke up to a flap-flap sound,  
 As Cheezy Crow landed on a dumpster mound:    
 "Hey, pup! I've flown over bridge and street -  
 There's a shelter past the toll bridge, where dogs and humans meet!"
 
 (Right 5)
 
-> From his stash of treasures (a toy car, two rings),
-Cheezy dropped a coin that went cling-a-ling!
-"This doggy token pays the bridge-crossing toll,
+> From his stash of treasures (a toy car, two rings),  
+Cheezy dropped a coin that went cling-a-ling!  
+"This doggy token pays the bridge-crossing toll,  
 But hurry—your new human awaits! Let’s roll!"
 
 #### Pages 6-7: Postman
@@ -44,15 +44,15 @@ But hurry—your new human awaits! Let’s roll!"
 (Left 6)
 
 > Rounding the block, who should appear?  
-Toby’s favorite postman—“Over here!”  
+Toby’s favorite mail carrier—“Hey dog, over here!”  
 With jingling keys and treats to share,  
-*He never forgot this scruffy Toby bear!* need to fix bear?
+He never forgets this scruffy Toby bear!
 
 (Right 7)
 
-> “Special delivery!” the mailman announced,  
+> “Special delivery!” the mail carrier announced,  
 Tossing the biscuit on which Toby pounced,   
-Finley sniffed, “relax, don't have a cow!”  
+Finley sniffed, “relax man, don't have a cow!”  
 But Toby just danced— and then took a bow!
 
 #### Pages 8-9: Chicken Man - scent detour
@@ -78,13 +78,13 @@ Toby CHOMPED-CHOMPED-GULPED – "Let's cut through the park!"
 > KABLAM-KABOOM-KAPOP! The sky lit up bright.    
 Toby tucked his tail and shook in fright.   
 His tongue was panting, his ears went flat—  
-Now he’s wearing that bush as a scaredy-cap!  
+Now he’s wearing a bush as a scaredy-cap!  
 
 (Right 11)
 
 > The night grew quiet, the booms all fled,  
 But Toby still hid his bush-hat head.  
-Cheezy murmured, "We're all safe and sound—  
+Cheezy murmured, "Look, we're all safe and sound—  
 We'll sleep here tonight 'til the sun comes around. 
 
 #### Pages 12-13: Toll Bridge Rescue
