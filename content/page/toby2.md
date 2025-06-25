@@ -4,21 +4,7 @@ subtitle: A Story to Read to Dogs (and Humans Too!)
 comments: false
 ---
 
-#### Front Matter
-Page i (Inside Front Cover)
-Blank or optional dedication:
-"For every street dog dreaming of a home"
 
-#### Page ii (Left) & 1 (Right) - Copyright & Title Page
-
-#### Text (Page 1):
-**TOBY'S GREAT QUEST**
-A Story to Read to Dogs (and Humans Too!)  
-Illustration: Toby standing proudly on city bridge at sunset, heart-shaped patch visible.
-
-### Story Spreads
-
----
 
 #### Pages 2-3: Toby's Lonely Stray Life 
  
@@ -27,19 +13,7 @@ Illustration: Toby standing proudly on city bridge at sunset, heart-shaped patch
 > Toby sat watching the sidewalk parade,  
 Where happy dogs trotted in sunlit shade.  
 "Cheezy! Finley!" he called with a whine,  
-"Why don't I get a human... and walks that are mine?"
-
-Illustration Notes:  
-Daytime park: Sunny, dappled light through trees  
-Foreground: Toby sitting by a bus stop  
-
-Background:  
-Cheezy Crow perched on a street sign  
-Finley lounging on a nearby fire escape  
-
-Details:  
-Happy dogs with owners walking by  
-Toby's heart-shaped patch catching sunlight    
+"Why don't I get a human... and walks that are mine?"   
 
 (Right Page 3)
 
@@ -47,22 +21,6 @@ Toby's heart-shaped patch catching sunlight
 Toby dreamed of life with a human, just right:  
 Long walks where he led the way,  
 Belly rubs, and treats every day!
-
-Illustration:
-Split panel:  
-- Top:
- - Toby curled in cardboard box (street shelter)
- - finly sleeping nearby
-
-- Bottom: Dream bubble showing:
-  - Toby on a leash with smiling human
-  - Dog bowl overflowing with treats
-  - Hands scratching his belly
-
-Style: Warm, glowing dream colors contrast with gritty street
-  
-Interactive Prompt:  
-"Point to Toby. Ask your pup: 'Were you ever lonely too?'"
 
 ---
 
@@ -75,35 +33,7 @@ As Cheezy Crow cawed from the dumpster mound:
 "Hey, pup! I've flown over bridge and street -  
 There's a shelter past the toll bridge, where dogs and humans meet!"
 
-Setting: Same laundromat alley as Page 3  
-- Toby stretching out of cardboard box (labeled "Fresh Laundry")  
-- Cheezy perched on a rusty dumpster (not a cart)  
-- Morning light glinting off broken glass/puddles
-
-Action:
-- Toby's tail wagging so hard it knocks over a tin can
-- Cheezy's wings scattering loose papers
-
 (Right 5)
-
-> From his stash of treasures (a toy car, two rings),
-Cheezy dropped a coin that went cling-a-ling!
-"This doggy token pays the bridge-crossing toll,
-But hurry—your new human awaits! Let’s roll!"
-
-Illustration:
-- Toby already mid-dash, kicking up dust!
-- Close-up of Cheezy's "stash" in a cracked flowerpot:
-- Shiny junk (bottle caps, keys, doggy coin)
-- Bonus: Hidden Cheez-It wrapper as foreshadowing
-- Toby's paw reaching for the coin, eyes wide
-- Finley peeking into frame with skeptical look
-- Cheezy's stash now spills from dumpster edge (not flowerpot)
-
-Bonus Detail: "Fresh Laundry" box visible in background
-
-Interactive Prompt:  
-"Make a crow sound - CAW! - with your pup!"
 
 ---
 
@@ -123,17 +53,9 @@ Tossing the biscuit on which Toby pounced,
 Finley sniffed, “PFFT, relax, don't have a cow!”  
 But Toby just danced— and then took a bow!
 
-Illustration:
-- Jolly postman in uniform
-- Mailbag with shelter flyer visible
-
-Interactive Prompt:  
-"High-five your pup for good manners!"
-
 ---
 
 #### Pages 8-9: Postman's Treat
-
 
 (Left 8)
 
@@ -144,24 +66,10 @@ As Toby ran towards the chicken man's chair.
 
 (Right 9)
 
-
 > The Chicken Man tossed Toby a treat,  
 "For my favorite street dog – take a seat and eat!"  
 Finley meowed, "We’ve got BLOCKS TO GO, it's getting dark!"  
 Toby CHOMPED-CHOMPED-GULPED – " Let's cut through the park!"
-
-
-Illustration:
-- Chicken Man winking, wearing a "BEST BIRD COOK" hat
-- Finley tapping paw impatiently
-- Cheezy eyeing the tip jar
-
-Bonus Idea:
-- Add a speech bubble from Toby:
-  - "Worth it!" with chicken grease on his muzzle.
-
-Interactive Prompt:  
-- "Sniff the page! What's your pup's favorite smell?"
 
 ---
 
@@ -169,30 +77,10 @@ Interactive Prompt:
 
 (Left 10)
 
-> KABLAM-KABOOM-KAPOP! The sky lit up bright.  
-Toby tucked his tail and shook in fright.  
-Fireworks boomed like cannons of doom,  
-He dove for the bushes— way out of sight!
-
-
-> KABLAM-KABOOM-KAPOP! The sky lit up bright.  
-Toby tucked his tail and shook in fright. 
-Fireworks barked like angry hounds—  
-He belly-crawled to undergrounds!  
-
-
 > KABLAM-KABOOM-KAPOP! The sky lit up bright.    
 Toby tucked his tail and shook in fright.   
 His paws went slippy, his ears went flap—  
 Now he’s wearing that bush as a scaredy-cap!  
-
-Why it works:  
-Physical comedy (bush stuck on his head).  
-"Scaredy-cap" = instantly visual.
-
-
-Illustration:  
-- Toby’s paws and tail visible under bush.
 
 (Right 11)
 
@@ -201,14 +89,6 @@ But Toby still hid his bush-hat head.
 Cheezy murmured, "Safe and sound—  
 We'll sleep here tonight 'til the sun comes around. 
 
-Illustration:
-- Toby: Still trembling under his "scaredy-cap"
-- Finley: Curled up in a loaf position, eyes half-closed
-- Cheezy: Perched on a branch, pointing at quiet sky
-- Background: Distant bridge silhouette under moon
-
-Interactive Prompt:  
-"If your pup's scared of noises, hug them tight!"
 
 ---
 

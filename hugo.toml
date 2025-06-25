@@ -103,6 +103,13 @@ baseURL = "https://mturko.vercel.app"
     name = "toby"
     url = "page/toby"
     weight = 3
+	
+[[menu.main]]
+    parent = "samples"
+    name = "toby2"
+    url = "page/toby2"
+    weight = 3	
+	
 
 [[menu.main]]
     name = "Tags"
