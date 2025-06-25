@@ -138,7 +138,7 @@ Interactive Prompt:
 (Left 8)
 
 > SNIFF-SNIFF-SNIFF! "Chicken! This way!"  
-Toby dragged them all astray.  
+Now Toby dragged them all astray.  
 Cheesy crowed, "At this rate, we'll never get there!"  
 As Toby ran towards the chicken man's chair.
 
