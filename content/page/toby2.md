@@ -46,7 +46,7 @@ But hurry—your new human awaits! Let’s roll!"
 > Rounding the block, who should appear?  
 Toby’s favorite mail carrier—“Hey dog, over here!”  
 With jingling keys and treats to share,  
-He never forgets this scruffy Toby bear!
+He never forgets this scruffy mutt's prayer!
 
 (Right 7)
 
@@ -94,31 +94,29 @@ We'll sleep here tonight 'til the sun comes around.
 >Rascal the raccoon crossed his arms with a growl,
 "Dogs can’t cross! Scram, pup— don’t scowl!"
 Toby dropped the doggy coin with a clink,
-But Rascal just sneered. "Nice try pup... NOT!"
+Rascal just smirked. “Hmm… Let me think.”
 
 (Right 13)
 
-Cheezy swooped down with a Cheez-It bright,
-"A crunchy toll for passage, right?"
-Rascal licked his lips... then frowned. "STILL no!"
-Until—POP!—Toby freed his paw from the jar.
-"FINE," Rascal mumbled. "But JUST you. No strays from afar."
+> Cheezy gasped, “His paw’s stuck tight—
+That jar’s got Rascal in a plight!”
+Toby nudged it—POP!—it flew,
+“FINE,” Rascal sighed. “Just YOU. Not YOU TWO.”
 
-Illustration:
-- Rascal with jar-lid stuck on paw
-- Toby nudging it off with nose
+> Cheezy gasped, “His paw’s stuck tight—
+That jar’s had him trapped all night!”
+Toby nudged it—POP!—it flew,
+Rascal groaned, “FINE Cross- ALL THREE OF YOU.”
 
-Interactive Prompt: 
-"Count the bribes: 1 coin, 1 snack, 1 rescue!"
 
 #### Pages 14-15: Shelter Arrival
 
 (Left 14)
 
-"Paws & Hearts Rescue" the sign shone clear,
-Families inside bringing cheer.
-Toby trembled by the door,
-"Will someone choose this street-smart mutt?"
+> The shelter door stood cracked ahead,
+"Paws & Hearts" in gold letters read.
+Toby's tail wag-froze mid-air—
+"What if NOBODY wants me there?"
 
 (Right 15)
 

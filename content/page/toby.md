@@ -114,7 +114,9 @@ Interactive Prompt:
 > Rounding the block, who should appear?  
 Toby’s favorite mail carrier—“Hey dog, over here!”  
 With jingling keys and treats to share,  
-He never forgets this scruffy Toby bear!
+He never forgets this scruffy mutt's prayer!
+
+Illustration Potential: Show biscuit mid-toss with Toby catching it.
 
 (Right 7)
 
@@ -202,6 +204,7 @@ Cheezy murmured, "Look! We're all safe and sound—
 We'll sleep here tonight 'til the sun comes around. 
 
 Illustration:
+## - RASCAL in background hand in jar
 - Toby: Still trembling under his "scaredy-cap"
 - Finley: Curled up in a loaf position, eyes half-closed
 - Cheezy: Perched on a branch, pointing at quiet sky
@@ -219,15 +222,22 @@ Interactive Prompt:
 >Rascal the raccoon crossed his arms with a growl,
 "Dogs can’t cross! Scram, pup— don’t scowl!"
 Toby dropped the doggy coin with a clink,
-But Rascal just sneered. "Nice try pup... NOT!"
+Rascal just smirked. “Hmm… Let me think.”
+
+Illustration Tip: Show Rascal tapping his chin like a scheming judge while Toby’s tail wags hopefully.
+
 
 (Right 13)
 
-Cheezy swooped down with a Cheez-It bright,
-"A crunchy toll for passage, right?"
-Rascal licked his lips... then frowned. "STILL no!"
-Until—POP!—Toby freed his paw from the jar.
-"FINE," Rascal mumbled. "But JUST you. No strays from afar."
+> Cheezy gasped, “His paw’s stuck tight—
+That jar’s got Rascal in a plight!”
+Toby nudged it—POP!—it flew,
+“FINE,” Rascal sighed. “Just YOU. Not YOU TWO.”
+
+> Cheezy gasped, “His paw’s stuck tight—
+That jar’s had him trapped all night!”
+Toby nudged it—POP!—it flew,
+Rascal groaned, “FINE Cross. ALL THREE OF YOU.”
 
 Illustration:
 - Rascal with jar-lid stuck on paw
@@ -242,17 +252,17 @@ Interactive Prompt:
 
 (Left 14)
 
-"Paws & Hearts Rescue" the sign shone clear,
-Families inside bringing cheer.
-Toby trembled by the door,
-"Will someone choose this street-smart mutt?"
+> The shelter door cracked open ahead,
+"Paws & Hearts" in gold letters read.
+Toby's tail wag-froze mid-air—
+"What if theres only mean humans in there?"
 
 (Right 15)
 
 Finley purred, "Walk in like you're KING!"
 Cheezy cawed, "Make those tail feathers sing!"
 Toby breathed deep, then pushed inside,
-Where futures were made and dreams took ride.
+To pick out a human, and 
 
 Illustration:
 - Shelter building with happy dogs in windows
