@@ -60,7 +60,7 @@ But Toby just danced— and then took a bow!
 (Left 8)
 
 > SNIFF-SNIFF-SNIFF! "Chicken! This way!"  
-Next Toby dragged them all astray.  
+Again Toby dragged them all astray.  
 Cheesy crowed, "At this rate, we'll never get there!"  
 As Toby ran towards the chicken man's chair.
 
