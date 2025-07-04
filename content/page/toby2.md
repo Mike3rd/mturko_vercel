@@ -27,7 +27,7 @@ Belly rubs, snuggles, and treats every day!
 
 (Left 4)
 
-> Toby woke to a flap-flap sound,  
+> Toby woke to a flap-flap-flap sound,  
 As Cheezy Crow landed on a dumpster mound:    
 "Hey, pup! I've flown over bridge and street -  
 There's a shelter past the toll bridge, where dogs and humans meet!"
@@ -60,7 +60,7 @@ But Toby just danced— and then took a bow!
 (Left 8)
 
 > SNIFF-SNIFF-SNIFF! "Chicken! This way!"  
-Now Toby dragged them all astray.  
+Next Toby dragged them all astray.  
 Cheesy crowed, "At this rate, we'll never get there!"  
 As Toby ran towards the chicken man's chair.
 
@@ -68,8 +68,8 @@ As Toby ran towards the chicken man's chair.
 
 > The Chicken Man tossed Toby a treat,  
 "For my favorite street dog – take a seat and eat!"  
-Finley meowed, "We’ve got BLOCKS TO GO, it's getting dark!"  
-Toby CHOMPED-CHOMPED-GULPED – "Let's cut through the park!"
+Finley meowed, "We’ve got BLOCKS TO GO and it's getting dark!"  
+Toby CHOMPED-CHOMPED-GULPED – "Let's save time and cut through the park!"
 
 #### Pages 10-11: Stormy Park Fireworks
 
@@ -93,15 +93,15 @@ We'll sleep here tonight 'til the sun comes around.
 
 >Rascal the raccoon crossed his arms with a growl,
 "Dogs can’t cross! Scram, pup— don’t scowl!"
-Toby dropped the doggy coin with a clink,
-Rascal just smirked. “Hmm… Let me think.”
+Toby dropped the doggy coin with a clink and a hope,
+But Rascal just smirked. “Hmm… the answeres still nope.”
 
 (Right 13)
 
 > Cheezy gasped, “His paw’s stuck tight—
 That jar’s got Rascal in a plight!”
-Toby nudged it—POP!—it flew,
-“FINE,” Rascal sighed. “Just YOU. Not YOU TWO.”
+Toby nudged it—POP!—the jar flew free,
+“FINE,” Rascal sighed. “proceed, all three”
 
 > Cheezy gasped, “His paw’s stuck tight—
 That jar’s had him trapped all night!”
@@ -113,7 +113,7 @@ Rascal groaned, “FINE Cross- ALL THREE OF YOU.”
 
 (Left 14)
 
-> The shelter door stood cracked ahead,
+> The shelter door cracked open ahead,
 "Paws & Hearts" in gold letters read.
 Toby's tail wag-froze mid-air—
 "What if NOBODY wants me there?"
