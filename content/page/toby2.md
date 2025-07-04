@@ -66,10 +66,10 @@ As Toby ran towards the chicken man's chair.
 
 (Right 9)
 
-> The Chicken Man tossed Toby a treat,  
+> The Chicken Man tossed little Toby a treat,  
 "For my favorite street dog – take a seat and eat!"  
-Finley meowed, "We’ve got BLOCKS TO GO and it's getting dark!"  
-Toby CHOMPED-CHOMPED-GULPED – "Let's save time and cut through the park!"
+Finley meowed, "MORE BLOCKS TO GO and it's getting dark!"  
+Toby CHOMPED-CHOMPED-GULPED – "Let's save some time and cut through the park!"
 
 #### Pages 10-11: Stormy Park Fireworks
 
@@ -93,8 +93,8 @@ We'll sleep here tonight 'til the sun comes around.
 
 >Rascal the raccoon crossed his arms with a growl,
 "Dogs can’t cross! Scram, pup— don’t scowl!"
-Toby dropped the doggy coin with a clink and a hope,
-But Rascal just smirked. “Hmm… the answeres still nope.”
+Toby dropped his doggy coin with a clink and a hope,
+But Rascal just smirked. “Hmm…dog, the answers still nope.”
 
 (Right 13)
 
