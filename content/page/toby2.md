@@ -103,9 +103,9 @@ That jar’s got Rascal in a plight!”
 Toby nudged it—POP!—the jar flew free,
 “FINE,” Rascal sighed. “proceed, all three”
 
-> Cheezy gasped, “His paw’s stuck tight—
-That jar’s had him trapped all night!”
-Toby nudged it—POP!—it flew,
+> Cheezy gasped, “His paw’s stuck tight—  
+That jar’s had him trapped all night!”  
+Toby nudged it—POP!—it flew,  
 Rascal groaned, “FINE Cross- ALL THREE OF YOU.”
 
 
@@ -113,17 +113,18 @@ Rascal groaned, “FINE Cross- ALL THREE OF YOU.”
 
 (Left 14)
 
-> The shelter door cracked open ahead,
-"Paws & Hearts" in gold letters read.
-Toby's tail wag-froze mid-air—
-"What if NOBODY wants me there?"
+> The shelter door stood cracked ahead,  
+"Paws & Hearts" in gold letters read.  
+Toby's tail drooped. "Wait—let's go BACK—  
+What if the humans are mean? Or loud? Or whack?"  
 
 (Right 15)
 
-Finley purred, "Walk in like you're KING!"
-Cheezy cawed, "Make those tail feathers sing!"
-Toby breathed deep, then pushed inside,
-Where futures were made and dreams took ride.
+> Finley blocked his retreat. "Oh please—  
+You've faced fireworks! This makes you freeze?"  
+Cheezy dropped his fry. "Times running out mate."  
+Toby breathed deep... and went to meet his fate.  
+
 
 Illustration:
 - Shelter building with happy dogs in windows
@@ -135,15 +136,15 @@ Interactive Prompt:
 #### Pages 16-17: Bratty Kid Rejection
 (Left 16)
 
-First came a child with sticky hands,
-"Ew, this one's DIRTY!" he demands.
-Poking Toby's nose with grimy cheer,
-"Do a TRICK!" The tone was clear.
+>First up, a kid with syrup hands,  
+"Ew, this mutt’s got mud stains! Banned!"  
+He poked Toby’s nose—once, twice—  
+"ROLL OVER! SPEAK! Do something nice!"  
 
 (Right 17)
 
 Toby sneezed on his shoes - ACHOO!
-"GROSS!" The kid turned blue.
+"GROSS!" The kid's face turned blue.
 Finley smirked, "That's one way to say,
 'Not your human - walk away!'"
 
@@ -162,6 +163,11 @@ Next came a woman glued to her screen,
 Scrolling where no dog had been.
 "Just need one for my #DogLife posts,
 Maybe in a sweater with matching toast?"
+
+Next came a woman glued to her phone,
+Yap yappity yapping, like she was alone.
+"Just need a mutt for my #DogLife posts,
+Cute pictures in sweaters get lots of votes"
 
 (Right 19)
 
