@@ -125,15 +125,8 @@ You've faced fireworks! This makes you freeze?"
 Cheezy dropped his fry. "Times running out mate."  
 Toby breathed deep... and went to meet his fate.  
 
+#### Pages 16-17: Shelter Arrival
 
-Illustration:
-- Shelter building with happy dogs in windows
-- Toby hesitating at door
-
-Interactive Prompt:  
-"Whisper encouragement to your pup!"
-
-#### Pages 16-17: Bratty Kid Rejection
 (Left 16)
 
 >First up, a kid with syrup hands,  
@@ -146,28 +139,16 @@ He poked Toby’s nose—once, twice—
 Toby sneezed on his shoes - ACHOO!
 "GROSS!" The kid's face turned blue.
 Finley smirked, "That's one way to say,
-'Not your human - walk away!'"
+'Not your human - walk away!'
 
-Illustration:
-- Bratty kid making disgusted face
-- Toby fake-sneezing dramatically
-
-Interactive Prompt:  
-"Would your pup like this kid? Boo!"
-
-#### Pages 18-19: Phone Lady Ignoring
+#### Pages 18-19: Shelter Arrival
 
 (Left 18)
 
-Next came a woman glued to her screen,
-Scrolling where no dog had been.
-"Just need one for my #DogLife posts,
-Maybe in a sweater with matching toast?"
-
-Next came a woman glued to her phone,
-Yap yappity yapping, like she was alone.
-"Just need a mutt for my #DogLife posts,
-Cute pictures in sweaters get lots of votes"
+> Next came a woman glued to her phone,  
+Yap yappity yapping, like she was alone.  
+"Just need a mutt for my #DogLife posts,  
+Cute pictures in sweaters get lots of votes"  
 
 (Right 19)
 
@@ -176,12 +157,6 @@ Toby dropped his ball at her feet,
 He sighed and turned - this wasn't right,
 A human should SEE their pup's delight.
 
-Illustration:
-- Woman taking selfie, ignoring Toby
-- Spilled coffee cup, ball rolling away
-
-Interactive Prompt:  
-"Put down your phone and pet your pup!"
 
 #### Pages 20-21: The Girl Who Knew His Name
 
