@@ -152,10 +152,10 @@ Cute pictures in sweaters get lots of votes"
 
 (Right 19)
 
-Toby dropped his ball at her feet,
-"Oops! My latte!" came her bleat.
-He sighed and turned - this wasn't right,
-A human should SEE their pup's delight.
+> Toby dropped his ball—thunk—at her toes,  
+She yelped, "My shoes! Ugh. Pose?"  
+He flopped on his back (belly rub?, sigh),  
+She snapped one pic... then walked right by.  
 
 
 #### Pages 20-21: The Girl Who Knew His Name
