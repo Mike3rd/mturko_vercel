@@ -27,7 +27,7 @@ Belly rubs, snuggles, and treats every day!
 
 (Left 4)
 
-> Toby woke to a flap-flap-flap sound,  
+> Toby woke up to a flap-flap sound,  
 As Cheezy Crow landed on a dumpster mound:    
 "Hey, pup! I've flown over bridge and street -  
 There's a shelter past the toll bridge, where dogs and humans meet!"
@@ -129,30 +129,30 @@ Toby breathed deep... and went to meet his fate.
 
 (Left 16)
 
->First up, a kid with syrup hands,  
-"Ew, this mutt’s got mud stains! Banned!"  
-He poked Toby’s nose—once, twice—  
-"ROLL OVER! SPEAK! Do something nice!"  
+> "FETCH! SPEAK! DANCE! NOW!" the bratty kid roared,
+Gaming controller clutched, snack-stained and bored.
+He yanked Toby's tail with a loud bratty "HEY!"
+"Do something FUNNY! Make my friends say 'YAY!'"  
 
 (Right 17)
 
-Toby sneezed on his shoes - ACHOO!
-"GROSS!" The kid's face turned blue.
-Finley smirked, "That's one way to say,
-'Not your human - walk away!'
+> Toby winced as his tail got squeezed,
+"This kid's mean AND dumb - I'm not pleased!"
+One warning growl (just a small one)... 
+As Toby trotted off… to find his human.  
 
 #### Pages 18-19: Shelter Arrival
 
 (Left 18)
 
 > Next came a woman glued to her phone,  
-Yap yappity yapping, like she was alone.  
+Yap yappity yap, like she was alone.  
 "Just need a mutt for my #DogLife posts,  
 Cute pictures in sweaters get lots of votes"  
 
 (Right 19)
 
-> Toby dropped his ball—thunk—at her toes,  
+> Toby gave ?? the side eye- hows this?
 She yelped, "My shoes! Ugh. Pose?"  
 He flopped on his back (belly rub?, sigh),  
 She snapped one pic... then walked right by.  
