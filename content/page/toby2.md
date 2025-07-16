@@ -129,17 +129,18 @@ Toby breathed deep... and went to meet his fate.
 
 (Left 16)
 
-> "FETCH! SPEAK! DANCE! NOW!" the bratty kid roared,
+> "SIT! SPEAK! ROLLOVER!" the bratty kid roared,
 Gaming controller clutched, snack-stained and bored.
-He yanked Toby's tail with a loud bratty "HEY!"
-"Do something FUNNY! Make my friends say 'YAY!'"  
+He yanked Toby's tail, spun him around.
+"Do what I say NOW, you lousy hound!"  
 
 (Right 17)
 
-> Toby winced as his tail got squeezed,
-"This kid's mean AND dumb - I'm not pleased!"
-One warning growl (just a small one)... 
-As Toby trotted off… to find his human.  
+> Toby yelped, his lip started to quiver,
+"Bossy, cold, and mean - these always make me shiver!"
+One warning growl with leer, then off he went, -or-
+With warning growls and leers, off he went
+To find his dreamt of human, one not so bent. 
 
 #### Pages 18-19: Shelter Arrival
 
@@ -147,25 +148,26 @@ As Toby trotted off… to find his human.
 
 > Next came a woman glued to her phone,  
 Yap yappity yap, like she was alone.  
-"Just need a mutt for my #DogLife posts,  
+"Just need a mutt for my Socialgram posts,  
 Cute pictures in sweaters get lots of votes"  
 
 (Right 19)
 
-> Toby gave ?? the side eye- hows this?
-She yelped, "My shoes! Ugh. Pose?"  
-He flopped on his back (belly rub?, sigh),  
-She snapped one pic... then walked right by.  
+> Toby gave her the side eye- here's your pose.
+She wants likes, not walks or belly-ache."
+
+He turned his tail (no fuss, no bark)... 
+Next human, please—this one’s broke 
 
 
 #### Pages 20-21: The Girl Who Knew His Name
 
 (Left 20)
 
-Then - a whisper soft and true:
-"I'd name him Toby...if I could choose."
-Toby's ears shot up, his heart went BOOM,
-Someone knew his name in that room!
+Then—a whisper, sweet and dear:
+"I'd name him Toby... my pup of cheer!"
+His ears shot up, his heart went BONG!
+"She SAID it! She KNEW it! RIGHT all along!"
 
 (Right 21)
 
