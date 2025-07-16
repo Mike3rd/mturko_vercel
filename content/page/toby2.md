@@ -91,21 +91,21 @@ We'll sleep here tonight 'til the sun comes around.
 
 (Left 12)
 
->Rascal the raccoon crossed his arms with a growl,
-"Dogs can’t cross! Scram, pup— don’t scowl!"
-Toby dropped his doggy coin with a clink and a hope,
+>Rascal the raccoon crossed his arms with a growl,  
+"Dogs can’t cross! Scram, pup— don’t scowl!"  
+Toby dropped his doggy coin with a clink and a hope,  
 But Rascal just smirked. “Hmm…dog, the answers still nope.”
 
 (Right 13)
 
-> Cheezy gasped, “His paw’s stuck tight—
-That jar’s got Rascal in a plight!”
-Toby nudged it—POP!—the jar flew free,
+> Cheezy gasped, “His paw’s stuck tight—  
+That jar’s got Rascal in a plight!”  
+Toby nudged it—POP!—the jar flew free,  
 “FINE,” Rascal sighed. “proceed, all three”
 
-> Cheezy gasped, “His paw’s stuck tight—  
-That jar’s had him trapped all night!”  
-Toby nudged it—POP!—it flew,  
+> Cheezy gasped, “His paw’s stuck tight—    
+That jar’s had him trapped all night!”    
+Toby nudged it—POP!—it flew,    
 Rascal groaned, “FINE Cross- ALL THREE OF YOU.”
 
 
@@ -129,17 +129,17 @@ Toby breathed deep... and went to meet his fate.
 
 (Left 16)
 
-> "SIT! SPEAK! ROLLOVER!" the bratty kid roared,
-Gaming controller clutched, snack-stained and bored.
-He yanked Toby's tail, spun him around.
-"Do what I say NOW, you lousy hound!"  
+> "SIT! SPEAK! ROLLOVER!" the bratty kid roared,  
+Gaming controller clutched, snack-stained and bored.  
+He yanked Toby's tail, spun him around.  
+"Do what I say NOW, you lousy hound!"    
 
 (Right 17)
 
-> Toby yelped, his lip started to quiver,
-"Bossy, cold, and mean - these always make me shiver!"
-One warning growl with leer, then off he went, -or-
-With warning growls and leers, off he went
+> Toby yelped, his lip started to quiver,  
+"Bossy, cold, and mean - these always make me shiver!"  
+One warning growl with leer, then off he went, -or-  
+With warning growls and leers, off he went  
 To find his dreamt of human, one not so bent. 
 
 #### Pages 18-19: Shelter Arrival
@@ -153,10 +153,10 @@ Cute pictures in sweaters get lots of votes"
 
 (Right 19)
 
-> Toby gave her the side eye- here's your pose.
-She wants likes, not walks or belly-ache."
+> Toby gave her the side eye- here's your pose.  
+She wants likes, not walks or belly-ache."  
 
-He turned his tail (no fuss, no bark)... 
+He turned his tail (no fuss, no bark)...   
 Next human, please—this one’s broke 
 
 
@@ -164,17 +164,17 @@ Next human, please—this one’s broke
 
 (Left 20)
 
-Then—a whisper, sweet and dear:
-"I'd name him Toby... my pup of cheer!"
-His ears shot up, his heart went BONG!
-"She SAID it! She KNEW it! RIGHT all along!"
+Then—a whisper, sweet and dear:  
+"I'd name him Toby... my pup of cheer!"  
+His ears shot up, his heart went BONG!  
+"She SAID it! She KNEW it! RIGHT all along!"  
 
 (Right 21)
 
-He nudged her leg, tail THUMP-THUMP-THUD,
-Dropped his ball in a puddle of mud.
-She knelt down, tears in her eyes,
-"You...you picked ME?" Toby sighed, "Wise."
+He nudged her leg, tail THUMP-THUMP-THUD,  
+Dropped his ball in a puddle of mud.  
+She knelt down, tears in her eyes,  
+"You...you picked ME?" Toby sighed, "Wise."  
 
 Illustration:
 - Shy girl crouching to Toby's level
