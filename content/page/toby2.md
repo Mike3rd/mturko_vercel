@@ -153,7 +153,7 @@ Cute pictures in sweaters get lots of votes"
 
 (Right 19)
 
-> Toby gave her the side eye- here's your pose.  
+> Toby gave her the side eye- here's your pose. vote on this  
 She wants likes, not walks or belly-ache."  
 
 He turned his tail (no fuss, no bark)...   
@@ -163,18 +163,23 @@ Next human, please—this one’s broke
 #### Pages 20-21: The Girl Who Knew His Name
 
 (Left 20)
-
-Then—a whisper, sweet and dear:  
-"I'd name him Toby... my pup of cheer!"  
-His ears shot up, his heart went BONG!  
-"She SAID it! She KNEW it! RIGHT all along!"  
+> Then - a whisper soft and true:    
+"I'd name you Toby...if I could choose."    
+Do all the things you dreamed we’d do!    
+Long walks and belly rubs, to name just two    
 
 (Right 21)
+> Toby's ears perked up, his heart leapt high!    
+She knows my name,    
+ I finally found my human just Right  
+ 
+ 
 
-He nudged her leg, tail THUMP-THUMP-THUD,  
-Dropped his ball in a puddle of mud.  
-She knelt down, tears in her eyes,  
-"You...you picked ME?" Toby sighed, "Wise."  
+
+*No coin, no bribe—just *trust so rare,
+*He *pressed *his *muzzle *to her care.
+*"You *dreamed *my *dreams?" *Her *nod so true...
+*Toby sighed, *"Then *I pick YOU."
 
 Illustration:
 - Shy girl crouching to Toby's level
@@ -186,6 +191,11 @@ Interactive Prompt:
 #### Pages 22-23: New Beginning
 
 (Left 22)
+
+show postman, walk, and friends.
+
+revert back to "Why don't I get a dog... and walks that are mine?"  
+Car rides and belly rubs, and tricks for cheese on last scene
 
 Leash clipped on - not tight, just right,
 Walking home through city light.
