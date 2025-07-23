@@ -206,7 +206,7 @@ Cheezy stole snacks - his usual shape.
 
 Toby knew he'd miss the street,
 The wild adventures, scraps to eat.
-But as his girl whispered, "Goodnight, **new** friend,"
+But as his human whispered, "Goodnight, **new** friend,"
 He found his perfect story's end.
 
 Illustration:
