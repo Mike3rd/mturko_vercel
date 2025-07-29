@@ -1,5 +1,5 @@
 ---
-title: TOBY'S GREAT QUEST
+title: Toby’s Tail-Wagging Quest
 subtitle: A Story to Read to Dogs (and Humans Too!)
 comments: false
 ---
@@ -136,10 +136,9 @@ He yanked Toby's tail, spun him around.
 
 (Right 17)
 
-> Toby yelped, his lip started to quiver,  
-"Bossy, cold, and mean - these always make me shiver!"  
-One warning growl with leer, then off he went, -or-  
-With warning growls and leers, off he went  
+> Toby yelped, his lip starting to quiver,  
+"Bossy, cold, and mean - these always make me shiver!"   
+With warning growl and leer, it's off he went  
 To find his dreamt of human, one not so bent. 
 
 #### Pages 18-19: Shelter Arrival
@@ -153,61 +152,43 @@ Cute pictures in sweaters get lots of votes"
 
 (Right 19)
 
-> Toby gave her the side eye- here's your pose. vote on this  
-She wants likes, not walks or belly-ache."  
-
+> Toby gave her the side eye- what in the world?.
+She wants likes, not walks or a pack that's fun"  
 He turned his tail (no fuss, no bark)...   
 Next human, please—this one’s broke 
+
 
 
 #### Pages 20-21: The Girl Who Knew His Name
 
 (Left 20)
-> Then - a whisper soft and true:    
-"I'd name you Toby...if I could choose."    
-Do all the things you dreamed we’d do!    
-Long walks and belly rubs, to name just two    
+> Then - a whisper soft and true:      
+"I'd name him Toby...if I could choose."      
+Do all the things he dreamed we’d do!      
+Long walks and belly rubs, to name just two.    
 
 (Right 21)
-> Toby's ears perked up, his heart leapt high!    
-She knows my name,    
- I finally found my human just Right  
+> Toby's ears shot up, his heart leapt high!    
+This is what he searched for far and wide!  
+He put his paw on his new friend's knee,  
+You're my new human, do you agree?
  
- 
-
-
-*No coin, no bribe—just *trust so rare,
-*He *pressed *his *muzzle *to her care.
-*"You *dreamed *my *dreams?" *Her *nod so true...
-*Toby sighed, *"Then *I pick YOU."
-
-Illustration:
-- Shy girl crouching to Toby's level
-- Muddy ball between them
-
-Interactive Prompt:  
-"Ask your pup: 'Would you choose me too?'"
 
 #### Pages 22-23: New Beginning
 
 (Left 22)
 
-show postman, walk, and friends.
-
-revert back to "Why don't I get a dog... and walks that are mine?"  
-Car rides and belly rubs, and tricks for cheese on last scene
-
-Leash clipped on - not tight, just right,
-Walking home through city light.
-Finley waved from a fire escape,
-Cheezy stole snacks - his usual shape.
+> Leash clipped on - not tight, just right,  
+Walking through a new city's light.  
+Rounding the block, who should appear?      
+A NEW mail carrier—“Hey dog, over here!”
 
 (Right 23)
 
-Toby knew he'd miss the street,
-The wild adventures, scraps to eat.
-But as his human whispered, "Goodnight, **new** friend,"
-He found his perfect story's end.
+> Toby knew he'd miss his old street,  
+The wild adventures, scraps to eat.  
+But as his human whispered, "Goodnight, my friend,"  
+He new he found his perfect story's end.
 
 Illustration:
 - Girl walking Toby past city sights
