@@ -152,12 +152,10 @@ Cute pictures in sweaters get lots of votes"
 
 (Right 19)
 
-> Toby gave her the side eye- what in the world?.
-She wants likes, not walks or a pack that's fun"  
-He turned his tail (no fuss, no bark)...   
-Next human, please—this one’s broke 
-
-
+> Toby sniffed. "No walks? No throws?  
+Just ‘pawsome’ posts in frilly bows?"  
+One long grrrr—his verdict clear...  
+"NEXT! This one’s all mirror, no ear."  
 
 #### Pages 20-21: The Girl Who Knew His Name
 
@@ -165,12 +163,13 @@ Next human, please—this one’s broke
 > Then - a whisper soft and true:      
 "I'd name him Toby...if I could choose."      
 Do all the things he dreamed we’d do!      
-Long walks and belly rubs, to name just two.    
+Long walks and belly rubs, to name just two.  
+OR-Long walks and belly rubs, to name a few.    
 
 (Right 21)
-> Toby's ears shot up, his heart leapt high!    
-This is what he searched for far and wide!  
-He put his paw on his new friend's knee,  
+> Toby's ears shot up, his heart leapt high!      
+This he searched for far and wide!    
+He put his paw on his new friend's knee,    
 You're my new human, do you agree?
  
 
@@ -179,7 +178,7 @@ You're my new human, do you agree?
 (Left 22)
 
 > Leash clipped on - not tight, just right,  
-Walking through a new city's light.  
+Walking through his new city's light.  
 Rounding the block, who should appear?      
 A NEW mail carrier—“Hey dog, over here!”
 
