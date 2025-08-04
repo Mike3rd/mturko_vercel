@@ -4,7 +4,7 @@ subtitle: A Story to Read to Dogs (and Humans Too!)
 comments: false
 ---
 
-
+Based on a true story
 
 #### Pages 2-3: Toby's Lonely Stray Life 
  
@@ -61,9 +61,9 @@ Add a "Sniff Here!" arrow pointing to a Cheez-It crumb on Page 5.
 (Left 6)
 
 > Rounding the block, who should appear?  
-Toby’s favorite mail carrier—“Hey dog, over here!”  
+His favorite mail carrier—“Hey Tobes, over here!”  
 With jingling keys and treats to share,  
-He never forgets this scruffy mutt's prayer!
+He never forgets this street dog's prayer!
 
 🐾 Interactive Prompt:  
 "Pretend to toss a treat like the mailman—watch your dog’s eyes follow!"
